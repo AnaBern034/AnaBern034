@@ -18,13 +18,14 @@ My name is Ana Flávia and i´am currently working and studing to gain experienc
   <img align="center" alt="Ana-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-  <img src="https://i.picasion.com/pic92/84d8e23ae9a4a5fac358b1684ad9094d.gif" align=right width="80" height="80" border="0" alt="https://picasion.com/" />
+ 
 </div>
 
 <div> 
   
 ##
 
+ <img src="https://i.picasion.com/pic92/84d8e23ae9a4a5fac358b1684ad9094d.gif" align=right width="80" height="80" border="0" alt="https://picasion.com/" />
   <a href="https://instagram.com/euuana034?igshid=OGQ5ZDc2ODk2ZA==/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-bernardes-67942127a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
