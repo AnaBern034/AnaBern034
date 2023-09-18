@@ -17,7 +17,8 @@ My name is Ana Flávia and i´am currently working and studing to gain experienc
   <img align="center" alt="Ana-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Ana-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/84d8e23ae9a4a5fac358b1684ad9094d.gif" align=right width="100" height="100" border="0"     alt="https://picasion.com/" />
+
+  <img src="https://i.picasion.com/pic92/84d8e23ae9a4a5fac358b1684ad9094d.gif" align=right width="80" height="80" border="0" alt="https://picasion.com/" />
 </div>
 
 <div> 
