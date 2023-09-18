@@ -2,9 +2,10 @@
 
 Hi, my names is Ana Flávia and i´am currently working and studing to gain experience for devOps, today i am focus on a knowledge in backend development and plan to continue in this area for an extended period until i gain experience enough to advance in my career.
 <div>
-<a href="https://github.com/AnaBern034">
-<img height="180em" src="https://github-readme-status.vercel.app/api?username=AnaBern034&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https//github-readme-status.vercel.app/api/top-langs/?username=AnaBern034&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/AnaBern034">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBern034&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBern034&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 - 🔭 I’m currently working on ...
