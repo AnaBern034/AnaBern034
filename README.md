@@ -4,7 +4,7 @@ Hi, my names is Ana Flávia and i´am currently working and studing to gain expe
 <div>
 <a href="https://github.com/AnaBern034">
 <img height="180em" src="https://github-readme-status.vercel.app/api?username=AnaBern034&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
+<img height="180em" src="https//github-readme-status.vercel.app/api/top-langs/?username=AnaBern034&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 - 🔭 I’m currently working on ...
