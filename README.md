@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-Hi, my names is Ana Flávia and i´am currently working and studing to gain experience for devOps, today i am focus on a knowledge in backend development and plan to continue in this area for an extended period until i gain experience enough to advance in my career.
+
+My name is Ana Flávia and i´am currently working and studing to gain experience for devOps, today i am focus on a knowledge in backend development and plan to continue in this area for an extended period until i gain experience enough to advance in my career.
 
 <div>
   <a href="https://github.com/AnaBern034">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBern034&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBern034&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaBern034&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBern034&layout=compact&langs_count=16&theme=moltack"/>
+  
   </a>
   </div>
 
@@ -15,7 +17,7 @@ Hi, my names is Ana Flávia and i´am currently working and studing to gain expe
   <img align="center" alt="Ana-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Ana-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  </a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/84d8e23ae9a4a5fac358b1684ad9094d.gif" align=right width="100" height="100" border="0"     alt="https://picasion.com/" />
 </div>
 
 <div> 
