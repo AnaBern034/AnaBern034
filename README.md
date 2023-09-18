@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**AnaBern034/AnaBern034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my names is Ana Flávia and i´am currently working and studing to gain experience for devOps, today i am focus on a knowledge in backend development and plan to continue in this area for an extended period until i gain experience enough to advance in my career.
 
-Here are some ideas to get you started:
+<a href="https://beacons.ai/rafaballerini">
+<img height="180em" src="https://github-readme-status.vercel.app/api?username=AnaBern034i&show_icons_=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
