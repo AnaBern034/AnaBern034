@@ -5,7 +5,7 @@ My name is Ana Flávia and i´am currently working and studing to gain experienc
 
 <div>
   <a href="https://github.com/AnaBern034">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaBern034&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaBern034&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBern034&layout=compact&langs_count=16&theme=moltack"/>
   
   </a>
