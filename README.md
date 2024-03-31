@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Ana Flávia and i´am currently working and studing to gain experience for devOps, today i am focus on a knowledge in backend development and plan to continue in this area for an extended period until i gain experience enough to advance in my career.
+My name is Ana Flávia today i am focus on a knowledge in backend development and plan to continue in this area for an extended period until i gain experience enough to advance in my career.
 
 <div>
   <a href="https://github.com/AnaBern034">
